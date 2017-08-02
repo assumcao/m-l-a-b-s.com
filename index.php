@@ -3,20 +3,20 @@ Desenvolvido Por: mLabs
 -->
 <?php
 $url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$title = "xango";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "xango",
+                  "image" => "http://gph.is/2phxsCG"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "xango",
+                  "image" => "http://gph.is/2blBcBk"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "xango",
+                  "image" => "http://gph.is/2phxsCG"
                   ),
         );
 
